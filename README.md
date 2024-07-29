@@ -1,3 +1,6 @@
+# 영화 리뷰 사이트 만들기 ---
+### &nbsp;&nbsp; 1. 프로젝트 생성, Github 연결
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
