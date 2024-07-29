@@ -13,3 +13,21 @@
   0 -6px 16px -6px rgba(0, 0, 0, 0.25);
 }
 
+@media screen and (max-width: 500px) {
+  .nav {
+    width: 100%;
+    bottom: 0;
+    right: initial;
+    left: initial;
+    top: initial;
+  }
+}
+
+.nav a {
+  text-decoration: none;
+  color: #0008fc;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 600;
+}
