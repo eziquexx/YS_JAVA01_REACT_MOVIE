@@ -31,3 +31,6 @@
   text-align: center;
   font-weight: 600;
 }
+.nav a:not(:last-child) {
+  margin-bottom: 12px;
+}
