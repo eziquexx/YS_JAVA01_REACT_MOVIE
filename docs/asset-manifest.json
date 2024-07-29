@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YS_JAVA01_REACT_MOVIE/static/css/main.f855e6bc.css",
-    "main.js": "/YS_JAVA01_REACT_MOVIE/static/js/main.a989e289.js",
+    "main.js": "/YS_JAVA01_REACT_MOVIE/static/js/main.9105a3c8.js",
     "static/js/453.a120608d.chunk.js": "/YS_JAVA01_REACT_MOVIE/static/js/453.a120608d.chunk.js",
     "index.html": "/YS_JAVA01_REACT_MOVIE/index.html",
     "main.f855e6bc.css.map": "/YS_JAVA01_REACT_MOVIE/static/css/main.f855e6bc.css.map",
-    "main.a989e289.js.map": "/YS_JAVA01_REACT_MOVIE/static/js/main.a989e289.js.map",
+    "main.9105a3c8.js.map": "/YS_JAVA01_REACT_MOVIE/static/js/main.9105a3c8.js.map",
     "453.a120608d.chunk.js.map": "/YS_JAVA01_REACT_MOVIE/static/js/453.a120608d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a989e289.js"
+    "static/js/main.9105a3c8.js"
   ]
 }
