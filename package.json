@@ -1,6 +1,6 @@
 {
   "name": "react_movie",
-  "homepage" : "https://eziquexx.github.io/YS_JAVA01_REACT_MOVIE/"
+  "homepage" : "https://eziquexx.github.io/YS_JAVA01_REACT_MOVIE/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
