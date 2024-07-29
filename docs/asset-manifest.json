@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.73f9130c.js",
-    "static/js/453.a120608d.chunk.js": "/static/js/453.a120608d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.73f9130c.js.map": "/static/js/main.73f9130c.js.map",
-    "453.a120608d.chunk.js.map": "/static/js/453.a120608d.chunk.js.map"
+    "main.css": "/YS_JAVA01_REACT_MOVIE/static/css/main.f855e6bc.css",
+    "main.js": "/YS_JAVA01_REACT_MOVIE/static/js/main.1c12fbc6.js",
+    "static/js/453.a120608d.chunk.js": "/YS_JAVA01_REACT_MOVIE/static/js/453.a120608d.chunk.js",
+    "static/media/logo.svg": "/YS_JAVA01_REACT_MOVIE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YS_JAVA01_REACT_MOVIE/index.html",
+    "main.f855e6bc.css.map": "/YS_JAVA01_REACT_MOVIE/static/css/main.f855e6bc.css.map",
+    "main.1c12fbc6.js.map": "/YS_JAVA01_REACT_MOVIE/static/js/main.1c12fbc6.js.map",
+    "453.a120608d.chunk.js.map": "/YS_JAVA01_REACT_MOVIE/static/js/453.a120608d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.73f9130c.js"
+    "static/js/main.1c12fbc6.js"
   ]
 }
