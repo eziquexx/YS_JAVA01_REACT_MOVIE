@@ -10,7 +10,7 @@ function App() {
   
   return (
     // basename='/YS_JAVA01_REACT_MOVIE'
-    <BrowserRouter basename='/YS_JAVA01_REACT_MOVIE'>
+    <BrowserRouter>
       <Navigation />
       <Routes>
         <Route path='/' element={<Home/>} />
