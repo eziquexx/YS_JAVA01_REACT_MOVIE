@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #eff3f7;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Red Hat Mono", monospace;
+}
