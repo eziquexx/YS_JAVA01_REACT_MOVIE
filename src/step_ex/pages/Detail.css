@@ -1,0 +1,70 @@
+.errorMsg {
+  position: relative;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+  margin-top: 20%;
+  color: #000;
+}
+.movieDetailWrap {
+  width: 100%;
+  margin-top: 100px;
+}
+.movieDetailWrap h1 {
+  text-align: center;
+}
+.movieDetail {
+  width: 80%;
+  height: auto;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  margin: 10px auto 0;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0px 10px 20px -4px rgba(167, 167, 167, 0.3);
+  box-sizing: border-box;
+}
+.movieDetail > div {
+  margin-top: 10px;
+}
+.movieDetail .moviePoster {
+  display: block;
+  width: 40%;
+  height: auto;
+  margin: 20px auto 0;
+}
+.movieDetail .year_Rate_runtime {
+  display: flex;
+  justify-content: center;
+}
+.movieDetail .movieTitle {
+  font-size:1.2rem;
+  text-align: center;
+  font-weight: 800;
+}
+.movieDetail .movieGenres {
+  margin-top: 20px;
+}
+.movieDetail .movieGenres span {
+  font-size: 0.8rem;
+  display: inline-block;
+  padding: 5px 6px;
+  border-radius:4px;
+  color: #000;
+  background-color: #eee;
+  border: 1px solid #ddd;
+}
+.movieDetail .movieGenres span:not(:last-child) {
+  margin-right: 10px;
+}
+.movieDetail .movieDes {
+  height: auto;
+  padding: 20px;
+  margin-top: 0;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
+

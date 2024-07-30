@@ -1,0 +1,50 @@
+
+.navWrap {
+  position: fixed;
+  width: 100%;
+  background-color: #5b727a;
+  box-shadow: 0px 10px 20px -3px rgba(109, 109, 109, 0.3);
+  z-index: 999;
+}
+.navWrap .nav {
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.navWrap .nav .menuGroup {
+  display: flex;
+  justify-content: left;
+}
+.nav h1 a {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  /* padding: 20px; */
+  margin-right: 20px;
+  font-weight: 900;
+  color: #FAD389;
+}
+.nav .menuGroup a {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  padding-right: 20px;
+  color: #fff;
+  transition: color 0.4s ease;
+}
+.nav .menuGroup a:last-child {
+  padding-right: 0;
+}
+
+.nav .menuGroup a:hover {
+  color:#25373d
+}

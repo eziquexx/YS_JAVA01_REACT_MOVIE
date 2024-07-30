@@ -1,0 +1,83 @@
+.movieWrap {
+  display: block;
+  width: 80%;
+  margin: 0 auto 30px;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #222;
+  transition: transform 0.4s ease;
+}
+.movieWrap:hover {
+  transform: scale(1.05);
+}
+.movieWrap:hover .movie {
+  box-shadow: 0px 20px 26px -3px rgba(167, 167, 167, 0.5);
+}
+.movie {
+  width: 100%;
+  padding: 24px;
+  display: flex;
+  justify-content: left;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 10px 20px -4px rgba(167, 167, 167, 0.3);
+  box-sizing: border-box;
+}
+
+.moviePoster {
+  position: relative;
+  width: auto;
+  height: 200px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.moviePoster img {
+  height: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+.movieDataWrap {
+  position: relative;
+  width: 68%;
+  display: flex;
+  margin-left: 20px;
+  flex-direction: column;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.movieDataWrap > div:not(:last-child) {
+  margin-bottom: 12px;
+}
+.movieDataWrap .movieTitle {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+.movieDataWrap .movieYear {
+  font-size: 0.9rem;
+  margin-left: 10px;
+  color: #999;
+}
+.movieDataWrap .movieSummary {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #3d3d3d;
+  max-height: 110px;
+  overflow: hidden;
+}
+
+.movieDataWrap .movieGenres {
+  position: absolute;
+  bottom: 0;
+}
+.movieDataWrap .movieGenres span {
+  font-size: 0.8rem;
+  display: inline-block;
+  padding: 5px 6px;
+  border-radius:4px;
+  color: #000;
+  background-color: #eee;
+  border: 1px solid #ddd;
+}
+.movieDataWrap .movieGenres span:not(:last-child) {
+  margin-right: 10px;
+}
